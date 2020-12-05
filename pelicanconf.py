@@ -6,7 +6,7 @@ SITENAME = 'pelican test'
 SITEURL = ''
 
 PATH = 'content'
-THEME = '../themes/pelican-twitchy'
+THEME = '../themes/pelican-bold'
 TIMEZONE = 'Atlantic/Canary'
 
 DEFAULT_LANG = 'es'
